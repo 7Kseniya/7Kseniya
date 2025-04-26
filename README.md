@@ -1,4 +1,4 @@
-## Hi there, I'm Kseniya
+## Hi there, I'm Kseniya, aspiring ML engineer
 
 ### Contact Information
 <p align="left">
@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/NLTK-009B84?style=for-the-badge" alt="NLTK">
   <img src="https://img.shields.io/badge/Albumentations-00C4CC?style=for-the-badge" alt="Albumentations">
   <img src="https://img.shields.io/badge/NetworkX-2671E5?style=for-the-badge" alt="NetworkX">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge" alt="Optuna">
 
 #### Data Engineering & DevOps
 <p align="left">
